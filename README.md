@@ -9,10 +9,6 @@ Este proyecto es una aplicación de contador de calorías construida usando Type
 - [Descripción](#descripción)
 - [Características](#características)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
 
 ## Descripción
 
